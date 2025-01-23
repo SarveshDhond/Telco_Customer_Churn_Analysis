@@ -1,20 +1,45 @@
-Certainly! Here’s the breakdown of my current progress with your request, expressed as percentages:
+# CUSTOMER CHURN ANALYSIS - PYTHON
+in this project, I have analyzed customer churn rates concerning other variables.
 
-Understanding and extracting initial content from the file: 70%
-I successfully accessed and identified sections of the notebook, including markdown (documentation) and code cells.
-Previewed the first few markdown and code cells to get a sense of the analysis structure.
-Analyzing and organizing extracted content for the executive summary: 50%
-I started identifying summary sections, steps conducted, and analysis results, but could not fully process all the cells to finalize this.
-Generating a complete executive summary: 30%
-While I have partial insights, I could not dive deeper to refine and organize the entire analysis due to technical constraints.
-In conclusion, I’ve made significant progress but could not complete the task. I’d estimate I was able to achieve about 60% of your request, and the remaining work could be completed if the key insights or data are shared manually. Let me know how you'd like to proceed!
+## DATA SOURCE
+[www.kaggle.com](https://www.kaggle.com/code/danishmubashar/telco-customer-churn-99-acc)
+
+## PROJECT AIM
+This project aims to showcase my Python and analysis skills. 
+
+## PROJECT PREREQUISITE
+1. Python
+2. Jupyter notebook
+3. ChatGPT
+
+## STEPS TAKEN
+- Importing libraries and files required
+- Data Wrangling/cleaning
+- Data Analysis
+
+## ANALYSIS BASED ON VARIABLES
+1. Total number and percentage of customers churned out
+   This count plot reveals that the majority of customers (5174) have not churned, while 1869 customers have churned.
+
+   This can be further classified in percentages shown in this pie chart
 
 
-The notebook contains 34 cells along with metadata. I’ll review the content of these cells to identify your analyses, steps conducted, and results. Let me extract and summarize the relevant information. ​​
+3. Churn rate based on gender
 
-The notebook contains 10 markdown cells (likely documentation or descriptions) and 24 code cells (representing computations or analysis). I'll now extract key content from these cells to summarize the steps, analyses, and results. ​​
 
-The notebook includes key documentation and code snippets such as:
+4. Churn rate based on age
+
+  
+5. Churn rate based on contract tenure
+
+
+6. churn rate based on additional services offered 
+
+
+7. Churn rate based on method of payment
+
+
+
 
 Markdown Highlights
 Overall Summary: "About 26% of customers have churned" (from a pie chart analysis).
