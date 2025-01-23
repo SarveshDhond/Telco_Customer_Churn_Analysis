@@ -2,8 +2,7 @@
 in this project, I have analyzed customer churn rates concerning other variables.
 
 ## DATA SOURCE
-[www.kaggle.com](https://www.kaggle.com/code/danishmubashar/telco-customer-churn-99-acc)
-
+[www.kaggle.com](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 ## PROJECT AIM
 This project aims to showcase my Python and analysis skills. 
 
