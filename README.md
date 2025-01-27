@@ -19,7 +19,7 @@ JECT PREREQUISITE
 ## ANALYSIS BASED ON VARIABLES
 1. Total number and percentage of customers churned out
    This count plot reveals that most customers (5174) have not churned, while 1869 customers have churned.
-   ![Customer churned](https://github.com/user-attachments/assets/b1f53ad0-1e01-463d-ae8d-03b877455219)
+![Customer churned](https://github.com/user-attachments/assets/b1f53ad0-1e01-463d-ae8d-03b877455219)
 
    This can be further classified in percentages shown in this pie chart
 ![Customer Churned in percentage](https://github.com/user-attachments/assets/dec75983-9877-422a-8996-7f27cc8ed7c2)
