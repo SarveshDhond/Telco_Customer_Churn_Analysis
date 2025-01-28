@@ -9,7 +9,7 @@ This project aims to showcase my Python and analysis skills.
 JECT PREREQUISITE
 1. Python
 2. Jupyter notebook
-3. ChatGPT
+3. Deepseek
 
 ## STEPS TAKEN
 - Importing libraries and files required
