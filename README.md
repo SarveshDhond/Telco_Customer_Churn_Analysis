@@ -51,6 +51,7 @@ Analyzing churn rates for specific services like OnlineSecurity, Online Backup, 
 ### 6. Churn rate based on method of payment
 This chart shows the distribution of churn across different payment methods (Electronic check, Mailed check, Bank transfer and Credit card). It would be useful to analyze whether certain payment methods are associated with higher churn rates.
 the chart indicates a higher churn rate among customers using electronic checks, it might suggest issues with this payment method, such as inconvenience or lack of trust. This could prompt a review of the electronic check process to improve customer experience. Other methods of payment have similar levels of churn. 
+
 ![Customer churn based on their method of payment](https://github.com/user-attachments/assets/3ad12ecf-ff84-43d0-baaa-9d1ad1ae6cdc)
 
 ## CONCLUSION
