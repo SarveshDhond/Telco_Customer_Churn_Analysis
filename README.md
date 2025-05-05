@@ -6,7 +6,7 @@ In this project, I analyzed customer churn rates concerning other variables.
 ## PROJECT AIM
 This project aims to showcase my Python and analysis skills. 
 
-JECT PREREQUISITE
+PROJECT PREREQUISITE
 1. Python
 2. Jupyter notebook
 3. Deepseek
