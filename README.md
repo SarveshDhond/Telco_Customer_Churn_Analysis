@@ -168,3 +168,8 @@ Our payment channel analysis reveals significant churn vulnerability among elect
 - 67% of churn occurs in Year 1, peaking at 42% within 0-6 months.
 - Service bundling reduces churn by 53-65% (Online Security/Tech Support).
 - Electronic check users show higher churn than autopay adopters.
+
+
+## ADDITIONS
+enhanced this analytics project by adding churn prediction functionality. Using a Random Forest model, I was able to predict customer churn with an accuracy of 80% based on multiple factors. 
+
